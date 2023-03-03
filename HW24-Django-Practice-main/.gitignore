@@ -1,0 +1,11 @@
+/docker/mysql/
+**./.env
+*.env
+**__pycache__
+*.pyc
+.venv
+.idea
+docker/mysql
+.env
+./.env
+__pycache__/
